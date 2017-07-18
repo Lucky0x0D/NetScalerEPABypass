@@ -21,8 +21,8 @@ EPA.
 
 Usage:
 
-python NSEPA-Bypass.py "NSC_EPAC Cookie Value"  "EPOCH Time from client"  "Value of the HOST: Header" "Base64 encoded string from Server"
+<PRE>python NSEPA-Bypass.py "NSC_EPAC Cookie Value"  "EPOCH Time from client"  "Value of the HOST: Header" "Base64 encoded string from Server"</PRE>
     
 Example Usage :
 
-python NSEPA-Bypass.py "981005eef29ce34c80f535f9e78f4b4d" "1498797356"  "vpn.example.com" "WWoNstbK760pVoPwPzHbs9pEf6Tj/iBk55gnHYwptPohBR0bKsiVVZmDN8J8530G4ISIFkRcC/1IaQSiOr8ouOYC84T5Hzbs2yH3Wq/KToo="
+<PRE>python NSEPA-Bypass.py "981005eef29ce34c80f535f9e78f4b4d" "1498797356"  "vpn.example.com" "WWoNstbK760pVoPwPzHbs9pEf6Tj/iBk55gnHYwptPohBR0bKsiVVZmDN8J8530G4ISIFkRcC/1IaQSiOr8ouOYC84T5Hzbs2yH3Wq/KToo="</PRE>

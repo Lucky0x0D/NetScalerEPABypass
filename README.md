@@ -1,5 +1,5 @@
 # NetScalerEPABypass
-A quick and dirty way to bypass encrypted EPA to coonect to a NetScaler Gateway
+A quick and dirty way to bypass encrypted EPA to connect to a NetScaler Gateway
 
 
 The Citrix NetScaler Gateway VPN has the ability to check various conditions on a user device when it attempts to connect to a NetScaler 
